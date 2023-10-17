@@ -42,7 +42,7 @@ Please develop this using Express, Node.JS, MySQL, Bootstrap 5. Feel free to Goo
 - To run this project locally, use the following command in your CLI:
 
 ```bash
-git clone 
+git clone https://github.com/SakshamAgrawall/Velozity_Assessment.git
 ```
 - first make run Mysql database in you local system create a database Movie then create a table favorites then create 5 column
   -Id,Title,Year,Type,Poster 
